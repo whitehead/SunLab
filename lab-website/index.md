@@ -5,7 +5,6 @@ title: Home
 
 # Welcome to the Sun Laboratory
 
-
 ## Advancing Molecular and Computational Biology
 
 The Sun Laboratory, established in 2024, combines cutting-edge experimental approaches with computational methods to understand fundamental biological processes. Our interdisciplinary team works at the intersection of epigenetics, genome engineering, and systems biology.
