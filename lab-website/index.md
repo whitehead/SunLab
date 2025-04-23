@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-# Welcome to the Moon Laboratory
+# Welcome to the Sun Laboratory
 
 
 ## Advancing Molecular and Computational Biology
 
-The Moon Laboratory, established in 2018, combines cutting-edge experimental approaches with computational methods to understand fundamental biological processes. Our interdisciplinary team works at the intersection of epigenetics, genome engineering, and systems biology.
+The Sun Laboratory, established in 2024, combines cutting-edge experimental approaches with computational methods to understand fundamental biological processes. Our interdisciplinary team works at the intersection of epigenetics, genome engineering, and systems biology.
 
 ## Research Highlights
 
