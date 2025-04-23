@@ -18,7 +18,7 @@ Meet the talented researchers and staff members who make our work possible.
   </div>
   
   <div class="team-member">
-    <img src="/lab-websiteassets/images/placeholder2.jpg" alt="Dr. John Doe">
+    <img src="/lab-website/assets/images/placeholder2.jpg" alt="Dr. John Doe">
     <h3>Dr. John Doe</h3>
     <p class="position">Postdoctoral Researcher</p>
     <p>Specializing in computational biology approaches to analyze large-scale genomic datasets. Joined the lab in 2022 after completing his Ph.D. at MIT.</p>
@@ -27,7 +27,7 @@ Meet the talented researchers and staff members who make our work possible.
   </div>
   
   <div class="team-member">
-    <img src="/lab-websiteassets/images/placeholder3.jpg" alt="Sarah Johnson">
+    <img src="/lab-website/assets/images/placeholder3.jpg" alt="Sarah Johnson">
     <h3>Sarah Johnson</h3>
     <p class="position">Ph.D. Student</p>
     <p>Working on developing novel CRISPR-based tools for gene editing. B.S. in Biochemistry from University of Michigan.</p>
@@ -35,7 +35,7 @@ Meet the talented researchers and staff members who make our work possible.
   </div>
   
   <div class="team-member">
-    <img src="/lab-websiteassets/images/placeholder4.jpg" alt="Michael Chen">
+    <img src="/lab-website/assets/images/placeholder4.jpg" alt="Michael Chen">
     <h3>Michael Chen</h3>
     <p class="position">Lab Manager</p>
     <p>Responsible for overseeing lab operations, equipment maintenance, and safety protocols. M.S. in Laboratory Science from UC Davis.</p>
