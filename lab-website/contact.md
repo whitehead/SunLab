@@ -33,13 +33,14 @@ Office: Room 301
 
 ## Mailing Address
 Sun Laboratory  
-Whitehead Institute for Biomedical Research 
-455 Main Street
-Cambridge, MA 02142
+Whitehead Institute for Biomedical Research  
+455 Main Street  
+Cambridge, MA 02142  
 USA
 
 ## Join Us
 We are always looking for talented and motivated individuals to join our team.
+
 For inquiries about positions, please send your CV and a brief statement of research interests to Dr. Na Sun Smith at nasun@wi.mit.edu.
 
 ## Directions
