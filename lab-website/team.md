@@ -32,7 +32,7 @@ Meet the talented researchers and staff members who make our work possible.
     <p class="position">Research Assistant</p>
     <p></p>
     <p><strong>Email:</strong> azhung@wi.mit.edu</p>
-    <p><strong></a></p>
+    <p><strong></p>
   </div>
  
   <div class="team-member">
@@ -41,7 +41,7 @@ Meet the talented researchers and staff members who make our work possible.
     <p class="position">Research Intern</p>
     <p></p>
     <p><strong>Email:</strong> ycui@wi.mit.edu</p>
-    <p><strong></a></p>
+    <p><strong></p>
   </div>
 
 </div>
