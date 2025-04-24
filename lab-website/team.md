@@ -16,7 +16,6 @@ Meet the talented researchers and staff members who make our work possible.
     <p><strong>Email:</strong> nasun@wi.mit.edu</p>
     <p><strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=oOxS8vwAAAAJ">Google Scholar</a></p>
   </div>
-  
   <div class="team-member">
     <img src="../lab-website/assets/images/photo_sophiaDavenport.jpg" alt="Ms. Sophia Davenport">
     <h3>Ms. Sophia Davenport</h3>
@@ -25,7 +24,6 @@ Meet the talented researchers and staff members who make our work possible.
     <p><strong>Email:</strong> sdavenport@wi.mit.edu</p>
     <p><strong>Codes:</strong> <a href="https://github.com/sophiadavenport">GitHub</a></p>
   </div>
-
   <div class="team-member">
     <img src="../lab-website/assets/images/photo_albertHung.jpg" alt="Mr. Albert Hung">
     <h3>Mr. Albert Hung</h3>
@@ -34,7 +32,6 @@ Meet the talented researchers and staff members who make our work possible.
     <p><strong>Email:</strong> azhung@wi.mit.edu</p>
     <p><strong></a></p>
   </div>
-
   <div class="team-member">
     <img src="../lab-website/assets/images/photo_yanCui.jpg" alt="Mr. Yan Cui">
     <h3>Mr. Yan Cui</h3>
@@ -43,7 +40,7 @@ Meet the talented researchers and staff members who make our work possible.
     <p><strong>Email:</strong> ycui@wi.mit.edu</p>
     <p><strong></a></p>
   </div>
-
+</div>
 ## Join Our Team
 
 We are always looking for passionate and talented individuals to join our research group. 
