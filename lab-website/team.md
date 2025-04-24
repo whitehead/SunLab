@@ -52,4 +52,4 @@ Meet the talented researchers and staff members who make our work possible.
 </div>
 
 ## Join Our Team
-We are always looking for passionate and talented individuals to join our research group. If interested, please contact Dr. Sun with your CV and a brief statement of research interests.
+We are always looking for passionate and talented individuals to join our research group. If interested, please contact Dr. Na Sun with your CV and a brief statement of research interests.
