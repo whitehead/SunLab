@@ -43,7 +43,6 @@ Meet the talented researchers and staff members who make our work possible.
     <p><strong>Email:</strong> ycui@wi.mit.edu</p>
     <p><strong></a></p>
   </div>
-</div>
 
 ## Join Our Team
 
