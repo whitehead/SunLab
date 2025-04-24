@@ -17,6 +17,15 @@ Meet the talented researchers and staff members who make our work possible.
   </div>
   
   <div class="team-member">
+    <img src="../lab-website/assets/images/photo_sumikoWilliams.jpg" alt="Ms. Sumiko Williams">
+    <h3>Ms. Sumiko Williams</h3>
+    <p class="position">Administrative Lab Manager</p>
+    <p> </p>
+    <p><strong>Email:</strong> swilliam@wi.mit.edu</p>
+    <p><strong> &nbsp;</strong> <a href="https://github.com/sophiadavenport"> &nbsp;</a></p>
+  </div>
+    
+  <div class="team-member">
     <img src="../lab-website/assets/images/photo_sophiaDavenport.jpg" alt="Ms. Sophia Davenport">
     <h3>Ms. Sophia Davenport</h3>
     <p class="position">Bioinformatics Technician</p>
