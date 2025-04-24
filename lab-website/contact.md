@@ -29,6 +29,7 @@ Office: Room 561D
 Sumiko Williams  
 Email: swilliam@wi.mit.edu  
 Phone: (617) 258-5195
+
 Office: Room 301
 
 ## Mailing Address
