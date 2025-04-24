@@ -10,11 +10,11 @@ Meet the talented researchers and staff members who make our work possible.
 <div class="team-container">
   <div class="team-member">
     <img src="../lab-website/assets/images/placeholder1.jpg" alt="Dr. Jane Smith">
-    <h3>Dr. Jane Smith</h3>
-    <p class="position">Principal Investigator</p>
-    <p>Ph.D. in Molecular Biology from Stanford University. Dr. Smith has over 15 years of experience in genomics research with a focus on epigenetic modifications in cancer cells.</p>
+    <h3>Dr. Na Sun</h3>
+    <p class="position">Principal Investigator / AI Whitehead Fellow</p>
+    <p>Sun earned an S.B. in Life Science at Linyi University in 2009, then completed an S.M. in Bioinformatics and Developmental Biology at the University of the Chinese Academy of Sciences in 2013. She conducted her master’s research in the lab of Jing-Dong Han, and continued as a research associate in the Han lab until 2016. In 2017, Sun came to Cambridge to work as a bioinformatics specialist at the Ragon Institute of MGH, MIT and Harvard. In 2020, Sun embarked on graduate studies on computational biology at MIT and earned a PhD in Computer Science in 2024. Sun joined Whitehead Institute as its inaugural AI Fellow in 2024.</p>
     <p><strong>Email:</strong> jane.smith@example.edu</p>
-    <p><strong>Publications:</strong> <a href="https://scholar.google.com">Google Scholar</a></p>
+    <p><strong>Publications:</strong> <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=oOxS8vwAAAAJ)">Google Scholar</a></p>
   </div>
   
   <div class="team-member">
