@@ -34,7 +34,17 @@ Meet the talented researchers and staff members who make our work possible.
     <p><strong>Email:</strong> azhung@wi.mit.edu</p>
     <p><strong></a></p>
   </div>
+ 
+  <div class="team-member">
+    <img src="../lab-website/assets/images/photo_yanCui.jpg" alt="Mr. Yan Cui">
+    <h3>Mr. Yan Cui</h3>
+    <p class="position">Research Intern</p>
+    <p></p>
+    <p><strong>Email:</strong> ycui@wi.mit.edu</p>
+    <p><strong></a></p>
+  </div>
 
+</div>
 
 ## Join Our Team
 
