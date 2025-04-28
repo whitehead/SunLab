@@ -5,46 +5,48 @@ title: Publications
 
 # Publications
 
-## Research Articles
+## Selected Publications (First or Co-first Author Papers)
 
-### 2025
+<!--### 2025 -->
 
-* Smith J, Doe J, Johnson S, Chen M. "Novel epigenetic signatures predict therapy response in triple-negative breast cancer." **Nature Genetics**. 2025;57(2):124-136. [DOI: 10.1038/s41588-025-0123-4](https://doi.org/)
+* <strong>Sun, Na</strong>, Victor, Matheus B.*, Park, Yongjin P., Xiong, Xushen, Scannail, Aine Ni, Leary, Noelle, Prosper, Shaniah, Viswanathan, Soujanya, Luna, Xochitl, Boix, Carles A., et al. (2023). Human microglial state dynamics in Alzheimer’s disease progression. <strong>Cell</strong>, 186(20), 4386-4403. Published by Elsevier.
 
-* Doe J, Chen M, Smith J. "Machine learning models for predicting cellular response to CRISPR-based perturbations." **Cell Systems**. 2025;10(1):78-92. [DOI: 10.1016/j.cels.2025.01.006](https://doi.org/)
+* <strong>Sun, Na</strong>, Akay, Leyla Anne, Murdock, Mitchell H., Park, Yongjin, Galiana-Melendez, Fabiola, Bubnys, Adele, Galani, Kyriaki, Mathys, Hansruedi, Jiang, Xueqiao, Ng, Ayesha P., et al. (2023). Single-nucleus multiregion transcriptomic analysis of brain vasculature in Alzheimer’s disease. <strong>Nature Neuroscience</strong>, 26(6), 970-982. Published by Nature Publishing Group US, New York.
 
-* Johnson S, Smith J. "Single-cell analysis reveals heterogeneous response to oxidative stress in stem cell populations." **Science Advances**. 2025;11(3):eabc1234. [DOI: 10.1126/sciadv.abc1234](https://doi.org/)
+* Garcia, Francisco J., <strong>Sun, Na</strong>, Lee, Hyeseung, Godlewski, Brianna, Mathys, Hansruedi, Galani, Kyriaki, Zhou, Blake, Jiang, Xueqiao, Ng, Ayesha P., Mantero, Julio, et al. (2022). Single-cell dissection of the human brain vasculature. Nature, 603(7903), 893-899. Published by Nature Publishing Group UK, London.
 
-### 2024
+* <strong>Sun, Na</strong>, Kellis, Manolis. (2022). Immune genes outside immune cells for multiple sclerosis. <strong>Neuron</strong>, 110(7), 1090-1092. Published by Elsevier.
 
-* Smith J, Chen M, Wilson R, Garcia A. "Comprehensive mapping of chromatin accessibility changes during cellular differentiation." **Genome Research**. 2024;34(8):1245-1259. [DOI: 10.1101/gr.276312.124](https://doi.org/)
+* <strong>Sun, Na</strong>, Yu, Xiaoming*, Li, Fang*, Liu, Denghui, Suo, Shengbao, Chen, Weiyang, Chen, Shirui, Song, Lu, Green, Christopher D., McDermott, Joseph, et al. (2017). Inference of differentiation time for single cell transcriptomes using cell population reference data. <strong>Nature Communications</strong>, 8(1), 1856. Published by Nature Publishing Group UK, London.
 
-* Johnson S, Doe J, Smith J. "A CRISPR screening approach identifies novel regulators of DNA damage repair pathways." **Cell Reports**. 2024;40(5):112358. [DOI: 10.1016/j.celrep.2024.05.023](https://doi.org/)
+* Chen, Di, <strong>Sun, Na</strong>, Hou, Lei*, Kim, Rachel, Faith, Jared, Aslanyan, Marianna, Tao, Yu, Zheng, Yi, Fu, Jianping, Liu, Wanlu, et al. (2019). Human primordial germ cells are specified from lineage-primed progenitors. <strong>Cell Reports</strong>, 29(13), 4568-4582. Published by Elsevier.
 
-* Chen M, Smith J. "Computational framework for integrating multi-omics data at single-cell resolution." **Nature Methods**. 2024;21(4):489-501. [DOI: 10.1038/s41592-024-1789-y](https://doi.org/)
+* Mahajan, Vinay S., Mattoo, Hamid, <strong>Sun, Na</strong>, Viswanadham, Vinayak*, Yuen, Grace J., Allard-Chamard, Hugues, Ahmad, Maimuna, Murphy, Samuel JH., Cariappa, Annaiah, Tuncay, Yesim, et al. (2021). B1a and B2 cells are characterized by distinct CpG modification states at DNMT3A-maintained enhancers. <strong>Nature Communications</strong>, 12(1), 2208. Published by Nature Publishing Group UK, London.
 
-* Wilson R, Johnson S, Smith J, Doe J. "Systems-level analysis of metabolic adaptation to nutrient limitation in cancer cells." **Molecular Cell**. 2024;84(2):345-360. [DOI: 10.1016/j.molcel.2024.02.015](https://doi.org/)
 
-### 2023
+## Other Publications
 
-* Smith J, Doe J. "Enhanced CRISPR-Cas9 specificity using machine learning-guided sgRNA design." **Nature Biotechnology**. 2023;41(9):1187-1195. [DOI: 10.1038/s41587-023-01876-w](https://doi.org/)
+* Murdock, Mitchell H., Yang, Cheng-Yi, Sun, Na, Pao, Ping-Chieh, Blanco-Duque, Cristina, Kahn, Martin C., Kim, TaeHyun, Lavoie, Nicolas S., Victor, Matheus B., Islam, Md Rezaul, et al. (2024). Multisensory gamma stimulation promotes glymphatic clearance of amyloid. <strong>Nature</strong>, 627(8002), 149-156. Published by Nature Publishing Group UK, London.
 
-* Chen M, Johnson S, Smith J. "Temporal dynamics of transcription factor binding during embryonic development." **Developmental Cell**. 2023;58(10):1023-1037. [DOI: 10.1016/j.devcel.2023.04.009](https://doi.org/)
+* Zhang, Aixin, Jin, Lei, Yao, Shenqin, Matsuyama, Makoto, van Velthoven, Cindy TJ, Sullivan, Heather Anne, Sun, Na, Kellis, Manolis, Tasic, Bosiljka, Wickersham, Ian, et al. (2024). Rabies virus-based barcoded neuroanatomy resolved by single-cell RNA and in situ sequencing. <strong>eLife</strong>, 12, RP87866. Published by eLife Sciences Publications Limited.
+  
+* Allard-Chamard, Hugues, Kaneko, Naoki, Bertocchi, Alice, Sun, Na, Boucau, Julie, Kuo, Hsiao-Hsuan, Farmer, Jocelyn R., Perugino, Cory, Mahajan, Vinay S., Murphy, Samuel JH, et al. (2023). Extrafollicular IgD- CD27- CXCR5- CD11c- DN3 B cells infiltrate inflamed tissues in autoimmune fibrosis and in severe COVID-19. <strong>Cell Reports</strong>, 42(6). Published by Elsevier.
+  
+* Tanigawa, Yosuke, Sun, Na, Li, William F., Boix, Carles A., Galani, Kyriaki, Mathys, Hansruedi, Bennett, David A A., Tsai, Li-Huei, Kellis, Manolis. (2023). Multi-polygenic score model informs the genetic basis of heterogeneity in Alzheimer’s disease. <strong>Alzheimer's & Dementia</strong>, 19, e079231.
 
-## Review Articles
+* Hou, Lei, Xiong, Xushen, Park, Yongjin, Boix, Carles, James, Benjamin, Sun, Na, He, Liang, Patel, Aman, Zhang, Zhizhuo, Molinie, Benoit, et al. (2023). Multitissue H3K27ac profiling of GTEx samples links epigenomic variation to disease. <strong>Nature Genetics</strong>, 55(10), 1665-1676. Published by Nature Publishing Group US, New York.
 
-* Smith J, Johnson S. "The evolving landscape of epigenetic therapies for cancer treatment." **Nature Reviews Cancer**. 2024;24(5):285-300. [DOI: 10.1038/s41568-024-00590-2](https://doi.org/)
+* Xiong, Xushen, James, Benjamin T., Boix, Carles A., Park, Yongjin P., Galani, Kyriaki, Victor, Matheus B., Sun, Na, Hou, Lei, Ho, Li-Lun, Mantero, Julio, et al. (2023). Epigenomic dissection of Alzheimer’s disease pinpoints causal variants and reveals epigenome erosion. <strong>Cell</strong>, 186(20), 4422-4437. Published by Elsevier.
+  
+* Wu, Chenwei, Yang, Xiyu, Gilkes, Emil Ghitman, Cui, Hanwen, Choi, Jiheon, Sun, Na, Liao, Ziqian, Fan, Bo, Santillana, Mauricio, Celi, Leo, et al. (2023). De-identification and Obfuscation of Gender Attributes from Retinal Scans. In Workshop on Clinical Image-Based Procedures, Springer, pp. 91-101.
+  
+* Della-Torre, Emanuel, Rigamonti, Elena, Perugino, Cory, Baghai-Sain, Simona, Sun, Na, Kaneko, Naoki, Maehara, Takashi, Rovati, Lucrezia, Ponzoni, Maurilio, Milani, Raffaella, et al. (2020). B lymphocytes directly contribute to tissue fibrosis in patients with IgG4-related disease. <strong>Journal of Allergy and Clinical Immunology</strong>, 145(3), 968-981. Published by Mosby.
+  
+* Farmer, Jocelyn R., Allard-Chamard, Hugues, Sun, Na, Ahmad, Maimuna, Bertocchi, Alice, Mahajan, Vinay S., Aicher, Toby, Arnold, Johan, Benson, Mark D., Morningstar, Jordan, et al. (2019). Induction of metabolic quiescence defines the transitional to follicular B cell switch. <strong>Science Signaling</strong>, 12(604), eaaw5573. Published by American Association for the Advancement of Science.
+  
+* Cheng, Hao, Xuan, Hongwen, Green, Christopher D., Han, Yixing, Sun, Na, Shen, Hongjie, McDermott, Joseph, Bennett, David A., Lan, Fei, Han, Jing-Dong J. (2018). Repression of human and mouse brain inflammaging transcriptome by broad gene-body histone hyperacetylation. <strong>Proceedings of the National Academy of Sciences</strong>, 115(29), 7611-7616. Published by National Academy of Sciences.
 
-* Doe J, Smith J. "CRISPR technologies: from gene editing to synthetic biology applications." **Annual Review of Biomedical Engineering**. 2023;25:275-302. [DOI: 10.1146/annurev-bioeng-110822-123651](https://doi.org/)
+* Xu, Chi, Ai, Daosheng, Shi, Dawei, Suo, Shengbao, Chen, Xingwei, Yan, Yizhen, Cao, Yaqiang, Zhang, Rui, Sun, Na, Chen, Weizhong, et al. (2018). Accurate drug repositioning through non-tissue-specific core signatures from cancer transcriptomes. <strong>Cell Reports</strong>, 25(2), 523-535. Published by Elsevier.
 
-## Book Chapters
 
-* Smith J, Chen M. "Computational Approaches in Epigenomics." In: *Modern Methods in Molecular Biology*. Johnson A, Williams B, editors. Academic Press; 2024. p. 287-315.
-
-* Doe J, Smith J. "CRISPR-Based Screening Technologies." In: *Handbook of Genome Engineering*. Zhang F, Doudna J, editors. Cold Spring Harbor Laboratory Press; 2023. p. 145-178.
-
-## Preprints
-
-* Johnson S, Chen M, Smith J. "Multi-modal analysis of chromatin organization during cellular senescence." **bioRxiv**. 2025. [DOI: 10.1101/2025.03.15.123456](https://doi.org/)
-
-* Chen M, Doe J, Smith J. "Integrative analysis of transcriptome and proteome changes in response to environmental stress." **bioRxiv**. 2025. [DOI: 10.1101/2025.02.10.987654](https://doi.org/)
+For a complete list of publications, please visit my Google Scholar profile.
