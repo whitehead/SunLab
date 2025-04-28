@@ -8,13 +8,7 @@ title: Contact
 ## Laboratory Location
 
 **Main Laboratory**  
-Room 3xx
-Whitehead Institute for Biomedical Research 
-455 Main Street
-Cambridge, MA 02142
-
-**Computational Laboratory**  
-Room 3xx
+Room 331
 Whitehead Institute for Biomedical Research 
 455 Main Street
 Cambridge, MA 02142
@@ -32,7 +26,7 @@ Phone: (617) 258-5195
 Office: Room 301
 
 ## Mailing Address
-Sun Laboratory  
+Sun Lab  
 Whitehead Institute for Biomedical Research  
 455 Main Street  
 Cambridge, MA 02142  
@@ -47,6 +41,12 @@ For inquiries about positions, please send your CV and a brief statement of rese
 <div class="map-container">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5896.03900550599!2d-71.09194092335275!3d42.36342363488823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370aec24f1e15%3A0x340a15832f5bfab2!2sWhitehead%20Institute%20for%20Biomedical%20Research%2C%20455%20Main%20St%2C%20Cambridge%2C%20MA%2002142!5e0!3m2!1sen!2sus!4v1745273535068!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+## Visiting Information
+Whitehead Institute is located in Kendall Square in Cambridge, MA. Visitors can access the institute via public transportation or by car. Parking is available nearby.
+
+For more information, please contact us via email.
+
 <!--
 ### Parking
 &nbsp;
