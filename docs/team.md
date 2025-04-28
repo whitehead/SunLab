@@ -20,9 +20,8 @@ Meet the talented researchers and staff members who make our work possible.
     <img src="{{ site.baseurl }}/assets/images/photo_sumikoWilliams.jpg" alt="Ms. Sumiko Williams">
     <h3>Ms. Sumiko Williams</h3>
     <p class="position">Administrative Lab Manager</p>
-    <p> </p>
+    <p>Sumiko is an Administrative Lab Manager who has worked at the Whitehead Institute for 15 years. She enjoys learning and creating new craft projects.</p>
     <p><strong>Email:</strong> swilliam@wi.mit.edu</p>
-    <p><strong> Sumiko is an Administrative Lab Manager who has worked at the Whitehead Institute for 15 years. She enjoys learning and creating new craft projects.</p>
   </div>
     
   <div class="team-member">
