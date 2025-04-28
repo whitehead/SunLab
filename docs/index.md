@@ -8,4 +8,4 @@ The Sun Lab seeks to harness vast single-cell transcriptomic and spatial data to
 
 ## Latest News
 
-- Septemper 16, 2024: The Sun Lab at Whitehead Institute is officially launched! We welcome you to visit us!National Institutes of Health (NIH)
+- Septemper 16, 2024: The Sun Lab at Whitehead Institute is officially launched! We welcome you to visit us!
