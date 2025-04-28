@@ -15,8 +15,7 @@ Cambridge, MA 02142
 
 ## Contact Details
 **Dr. Na Sun, Principal Investigator**  
-Email: nasun@wi.mit.edu  
-Phone: (xxx) xxx-xxxx  
+Email: nasun@wi.mit.edu    
 Office: Room 561D
 
 **Lab Manager**  
