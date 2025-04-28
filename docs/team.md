@@ -22,7 +22,7 @@ Meet the talented researchers and staff members who make our work possible.
     <p class="position">Administrative Lab Manager</p>
     <p> </p>
     <p><strong>Email:</strong> swilliam@wi.mit.edu</p>
-    <p><strong> &nbsp;</strong> <a href="https://github.com/sophiadavenport"> &nbsp;</a></p>
+    <p><strong> Sumiko is an Administrative Lab Manager who has worked at the Whitehead Institute for 15 years. She enjoys learning and creating new craft projects.</p>
   </div>
     
   <div class="team-member">
