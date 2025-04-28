@@ -49,5 +49,5 @@ title: Publications
 * Xu, Chi, Ai, Daosheng, Shi, Dawei, Suo, Shengbao, Chen, Xingwei, Yan, Yizhen, Cao, Yaqiang, Zhang, Rui, Sun, Na, Chen, Weizhong, et al. (2018). Accurate drug repositioning through non-tissue-specific core signatures from cancer transcriptomes. <strong>Cell Reports</strong>, 25(2), 523-535. Published by Elsevier.
 
 
-For a complete list of publications, please visit my <a href="https://scholar.google.com/citations?user=oOxS8vwAAAAJ&hl=en)">Google Scholar profile</a>
+For a complete list of publications, please visit my <a href="https://scholar.google.com/citations?user=oOxS8vwAAAAJ&hl=en)">Google Scholar profile</a>.
 
