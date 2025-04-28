@@ -29,7 +29,7 @@ Meet the talented researchers and staff members who make our work possible.
     <img src="{{ site.baseurl }}/assets/images/photo_sophiaDavenport.jpg" alt="Ms. Sophia Davenport">
     <h3>Ms. Sophia Davenport</h3>
     <p class="position">Bioinformatics Technician</p>
-    <p>Specializing in Python, R and large-scale data analysis.</p>
+    <p>Sophia holds a BS in Genetics and Global Health from the University of Wisconsin–Madison, where she was involved in epidemiological research through the Wisconsin Sleep Cohort Study. She also completed a Pharmaceutical Microbiology internship at AbbVie, focusing on preservative effectiveness in ophthalmic solutions. Most recently, she earned an MS in Bioinformatics from Boston University. During her time there, she interned at Alamar Biosciences, developing a dashboard to visualize and assess performance metrics for multiplex proteomic assays. Outside the lab, she enjoys hiking, skiing, traveling, and exploring coffee shops around the city.</p>
     <p><strong>Email:</strong> sdavenport@wi.mit.edu</p>
     <p><strong>Codes:</strong> <a href="https://github.com/sophiadavenport">GitHub</a></p>
   </div>
@@ -38,7 +38,7 @@ Meet the talented researchers and staff members who make our work possible.
     <img src="{{ site.baseurl }}/assets/images/photo_albertHung.jpg" alt="Mr. Albert Hung">
     <h3>Mr. Albert Hung</h3>
     <p class="position">Research Assistant</p>
-    <p>&nbsp;</p>
+    <p>Albert is a PhD Student in EECS at MIT. His research interests lie at the intersection of biology and machine learning. Specifically, he aims to develop novel machine-learning algorithms that utilize multimodal biological data to streamline discovery and improve medical treatments. Prior to MIT, Albert received his B.S.E in Computer Science at the University of Michigan.</p>
     <p><strong>Email:</strong> azhung@wi.mit.edu</p>
   </div>
  
@@ -46,7 +46,7 @@ Meet the talented researchers and staff members who make our work possible.
     <img src="{{ site.baseurl }}/assets/images/photo_yanCui.jpg" alt="Mr. Yan Cui">
     <h3>Mr. Yan Cui</h3>
     <p class="position">Research Intern</p>
-    <p>&nbsp;</p>
+    <p>Yan earned his Master’s degree in Informatics from Kyoto University and his Bachelor’s degree in Automation from the University of Electronic Science and Technology of China. His research focuses on developing novel deep learning models to advance the understanding of biological systems.</p>
     <p><strong>Email:</strong> ycui@wi.mit.edu</p>
   </div>
 </div>
