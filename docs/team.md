@@ -9,7 +9,7 @@ Meet the talented researchers and staff members who make our work possible.
 <div class="team-container">
   <div class="team-member">
     <img src="{{ site.baseurl }}/assets/images/photo_naSun.jpg" alt="Dr. Na Sun">
-    <h3>Dr. Na Sun</h3>
+    <h3>Na Sun</h3>
     <p class="position">Principal Investigator / AI Whitehead Fellow</p>
     <p>Dr. Na Sun is a Whitehead AI Fellow and Principal Investigator at the Whitehead Institute for Biomedical Research. She received her S.B. in Life Science from Linyi University in 2009, followed by an S.M. in Bioinformatics and Developmental Biology from the University of the Chinese Academy of Sciences in 2013. In 2017, Dr. Sun moved to Cambridge and worked at the Ragon Institute of MGH, MIT, and Harvard as a Bioinformatics Specialist. She began her graduate studies in computational biology at MIT in 2020, earning her Ph.D. in Computer Science in 2024.</p>
     <p><strong>Email:</strong> nasun@wi.mit.edu</p>
