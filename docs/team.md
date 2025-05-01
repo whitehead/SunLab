@@ -36,7 +36,7 @@ Meet the talented researchers and staff members who make our work possible.
   <div class="team-member">
     <img src="{{ site.baseurl }}/assets/images/photo_albertHung.jpg" alt="Mr. Albert Hung">
     <h3>Albert Hung</h3>
-    <p class="position">Research Assistant</p>
+    <p class="position">Graduate Student</p>
     <p>Albert is a PhD Student in EECS at MIT. His research interests lie at the intersection of biology and machine learning. Specifically, he aims to develop novel machine-learning algorithms that utilize multimodal biological data to streamline discovery and improve medical treatments. Prior to MIT, Albert received his B.S.E in Computer Science at the University of Michigan.</p>
     <p><strong>Email:</strong> azhung@wi.mit.edu</p>
   </div>
