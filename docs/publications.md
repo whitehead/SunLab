@@ -19,7 +19,7 @@ title: Publications
 
 * <strong>Sun, Na</strong>*, Yu, Xiaoming*, Li, Fang*, Liu, Denghui, Suo, Shengbao, Chen, Weiyang, Chen, Shirui, Song, Lu, Green, Christopher D., McDermott, Joseph, et al. (2017). Inference of differentiation time for single cell transcriptomes using cell population reference data. <strong>Nature Communications</strong>, 8(1), 1856. Published by Nature Publishing Group UK, London.
 
-* Chen, Di*, <strong>Sun, Na*</strong>, Hou, Lei*, Kim, Rachel, Faith, Jared, Aslanyan, Marianna, Tao, Yu, Zheng, Yi, Fu, Jianping, Liu, Wanlu, et al. (2019). Human primordial germ cells are specified from lineage-primed progenitors. <strong>Cell Reports</strong>, 29(13), 4568-4582. Published by Elsevier.
+* Chen, Di*, <strong>Sun, Na</strong>*, Hou, Lei*, Kim, Rachel, Faith, Jared, Aslanyan, Marianna, Tao, Yu, Zheng, Yi, Fu, Jianping, Liu, Wanlu, et al. (2019). Human primordial germ cells are specified from lineage-primed progenitors. <strong>Cell Reports</strong>, 29(13), 4568-4582. Published by Elsevier.
 
 * Mahajan, Vinay S.*, Mattoo, Hamid*, <strong>Sun, Na</strong>*, Viswanadham, Vinayak*, Yuen, Grace J., Allard-Chamard, Hugues, Ahmad, Maimuna, Murphy, Samuel JH., Cariappa, Annaiah, Tuncay, Yesim, et al. (2021). B1a and B2 cells are characterized by distinct CpG modification states at DNMT3A-maintained enhancers. <strong>Nature Communications</strong>, 12(1), 2208. Published by Nature Publishing Group UK, London.
 
