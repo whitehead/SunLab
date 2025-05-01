@@ -9,5 +9,5 @@ The Sun Lab seeks to harness vast single-cell transcriptomic and spatial data to
 ## Latest News
 - March 7, 2025: Welcome, Albert!
 - February 24, 2025: Welcome, Yan!
-- January 21, 2025: Welcome, Sophia!</li>
+- January 21, 2025: Welcome, Sophia!
 - Septemper 16, 2024: The Sun Lab at Whitehead Institute is officially launched! We welcome you to visit us!
