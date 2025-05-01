@@ -3,60 +3,37 @@ layout: default
 title: Research
 ---
 
-# Our Research
+# Research Overview
 
-Our laboratory focuses on exploring the intersection of molecular biology and computational approaches to understand complex biological systems.
+Cell-cell communication (CCC) is fundamental to the functioning of multicellular organisms. Understanding CCC is crucial for deciphering the complex phenotypes and diseases that manifest at cellular, tissue, and organismal levels. Despite its significance, exploring the broader implications of functional CCC across multiple biological scales remains a major challenge in both basic and applied biomedical research.
 
-## Current Research Areas
+My laboratory aims to address these challenges by developing and applying advanced machine learning and deep learning models. Leveraging the vast amounts of single-cell transcriptomic and spatial data, we aim to deepen our understanding of CCC, brain-immune crosstalk, and genotype-phenotype integration. By making these insights accessible across a wide range of biological contexts and applications, we will accelerate the discovery of novel intercellular and inter-organ therapies, opening new avenues for therapeutic innovation.
 
-### Epigenetic Regulation in Cancer
+## Our Research Focus
 
-![Research Image](assets/images/research1.jpg)
+### Deciphering Cell-Cell Communication and Its Biological Implications
 
-We investigate how epigenetic modifications influence gene expression patterns in various cancer types. Using cutting-edge sequencing technologies combined with computational analysis, we aim to identify novel epigenetic signatures that could serve as biomarkers or therapeutic targets.
+<!--![Research Image](assets/images/research1.jpg)-->
 
-Key projects include:
-- Mapping histone modification landscapes across primary tumors
-- Investigating the role of DNA methylation in therapy resistance
-- Developing machine learning approaches to predict cancer progression from epigenetic data
+We will develop computational methods to analyze functional cell-cell communication within tissues and its implications for cellular states, spatial organization, and genetic regulation. By decoding these interactions, we aim to uncover the key mechanisms that govern tissue function and organization.
 
-### CRISPR Technology Development
+### Investigating the Brain-Immune-Organ Crosstalk
 
-![Research Image](assets/images/research2.jpg)
+<!--![Research Image](assets/images/research2.jpg)-->
 
-Our lab is at the forefront of developing novel CRISPR-based tools for precise genome editing. We aim to improve the specificity, efficiency, and versatility of existing CRISPR systems through both experimental and computational approaches.
+Our focus will be on the role of barriers, such as the blood-brain barrier, in mediating communication between the central nervous system and peripheral immune systems. We will also explore brain-organ crosstalk through the peripheral immune system. By studying these interactions, we aim to reveal the molecular and cellular mechanisms that maintain homeostasis and contribute to disease development.
 
-Current projects focus on:
-- Engineering enhanced Cas9 variants with reduced off-target effects
-- Developing methods for targeted epigenetic editing
-- Creating high-throughput screening platforms for functional genomics
+### Decoding Disease Complexity through Multimodal Deep Learning
 
-### Systems Biology of Cell Signaling
+<!--![Research Image](assets/images/research3.jpg)-->
 
-![Research Image](assets/images/research3.jpg)
+We will integrate intercellular and inter-organ communication data with multi-layered datasets—from genotype to phenotype—using multimodal deep learning models. This approach will enhance our ability to diagnose diseases, classify disease subtypes, and identify novel therapeutic targets.
 
-We apply systems biology approaches to understand how cells integrate multiple signaling inputs to make fate decisions. Using a combination of single-cell analysis, proteomics, and mathematical modeling, we study how signaling networks adapt to environmental changes.
-
-Our research in this area includes:
-- Quantitative analysis of signaling dynamics at the single-cell level
-- Modeling cross-talk between stress response pathways
-- Investigating the impact of environmental factors on cellular decision-making
-
-## Research Facilities
-
-Our laboratory is equipped with state-of-the-art facilities for molecular biology, genomics, and computational analysis:
-
-- Next-generation sequencing platform
-- Advanced microscopy suite for live-cell imaging
-- High-performance computing cluster for data analysis
-- Genome editing workstation
-- Proteomics analysis equipment
-
-## Funding
+<!--## Funding
 
 Our research is generously supported by grants from:
 - National Institutes of Health (NIH)
 - National Science Foundation (NSF)
 - American Cancer Society
 - Howard Hughes Medical Institute (HHMI)
-- Department of Energy (DOE)
+- Department of Energy (DOE)-->
