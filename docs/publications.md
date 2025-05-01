@@ -9,19 +9,19 @@ title: Publications
 
 <!--### 2025 -->
 
-* <strong>Sun, Na&#42;</strong>, Victor, Matheus B.*, Park, Yongjin P., Xiong, Xushen, Scannail, Aine Ni, Leary, Noelle, Prosper, Shaniah, Viswanathan, Soujanya, Luna, Xochitl, Boix, Carles A., et al. (2023). Human microglial state dynamics in Alzheimer’s disease progression. <strong>Cell</strong>, 186(20), 4386-4403. Published by Elsevier.
+* <strong>Sun, Na&#42;</strong>, Victor, Matheus B.&#42;, Park, Yongjin P., Xiong, Xushen, Scannail, Aine Ni, Leary, Noelle, Prosper, Shaniah, Viswanathan, Soujanya, Luna, Xochitl, Boix, Carles A., et al. (2023). Human microglial state dynamics in Alzheimer’s disease progression. <strong>Cell</strong>, 186(20), 4386-4403. Published by Elsevier.
 
 * <strong>Sun, Na</strong>, Akay, Leyla Anne, Murdock, Mitchell H., Park, Yongjin, Galiana-Melendez, Fabiola, Bubnys, Adele, Galani, Kyriaki, Mathys, Hansruedi, Jiang, Xueqiao, Ng, Ayesha P., et al. (2023). Single-nucleus multiregion transcriptomic analysis of brain vasculature in Alzheimer’s disease. <strong>Nature Neuroscience</strong>, 26(6), 970-982. Published by Nature Publishing Group US, New York.
 
-* Garcia, Francisco J.*, <strong>Sun, Na</strong>*, Lee, Hyeseung, Godlewski, Brianna, Mathys, Hansruedi, Galani, Kyriaki, Zhou, Blake, Jiang, Xueqiao, Ng, Ayesha P., Mantero, Julio, et al. (2022). Single-cell dissection of the human brain vasculature. Nature, 603(7903), 893-899. Published by Nature Publishing Group UK, London.
+* Garcia, Francisco J.*, <strong>Sun, Na&#42;</strong>;, Lee, Hyeseung, Godlewski, Brianna, Mathys, Hansruedi, Galani, Kyriaki, Zhou, Blake, Jiang, Xueqiao, Ng, Ayesha P., Mantero, Julio, et al. (2022). Single-cell dissection of the human brain vasculature. Nature, 603(7903), 893-899. Published by Nature Publishing Group UK, London.
 
 * <strong>Sun, Na</strong>, Kellis, Manolis. (2022). Immune genes outside immune cells for multiple sclerosis. <strong>Neuron</strong>, 110(7), 1090-1092. Published by Elsevier.
 
-* <strong>Sun, Na</strong>*, Yu, Xiaoming*, Li, Fang*, Liu, Denghui, Suo, Shengbao, Chen, Weiyang, Chen, Shirui, Song, Lu, Green, Christopher D., McDermott, Joseph, et al. (2017). Inference of differentiation time for single cell transcriptomes using cell population reference data. <strong>Nature Communications</strong>, 8(1), 1856. Published by Nature Publishing Group UK, London.
+* <strong>Sun, Na&#42;</strong>, Yu, Xiaoming&#42;, Li, Fang&#42;, Liu, Denghui, Suo, Shengbao, Chen, Weiyang, Chen, Shirui, Song, Lu, Green, Christopher D., McDermott, Joseph, et al. (2017). Inference of differentiation time for single cell transcriptomes using cell population reference data. <strong>Nature Communications</strong>, 8(1), 1856. Published by Nature Publishing Group UK, London.
 
-* Chen, Di*, <strong>Sun, Na</strong>*, Hou, Lei*, Kim, Rachel, Faith, Jared, Aslanyan, Marianna, Tao, Yu, Zheng, Yi, Fu, Jianping, Liu, Wanlu, et al. (2019). Human primordial germ cells are specified from lineage-primed progenitors. <strong>Cell Reports</strong>, 29(13), 4568-4582. Published by Elsevier.
+* Chen, Di&#42;, <strong>Sun, Na&#42;</strong>, Hou, Lei&#42;, Kim, Rachel, Faith, Jared, Aslanyan, Marianna, Tao, Yu, Zheng, Yi, Fu, Jianping, Liu, Wanlu, et al. (2019). Human primordial germ cells are specified from lineage-primed progenitors. <strong>Cell Reports</strong>, 29(13), 4568-4582. Published by Elsevier.
 
-* Mahajan, Vinay S.*, Mattoo, Hamid*, <strong>Sun, Na</strong>*, Viswanadham, Vinayak*, Yuen, Grace J., Allard-Chamard, Hugues, Ahmad, Maimuna, Murphy, Samuel JH., Cariappa, Annaiah, Tuncay, Yesim, et al. (2021). B1a and B2 cells are characterized by distinct CpG modification states at DNMT3A-maintained enhancers. <strong>Nature Communications</strong>, 12(1), 2208. Published by Nature Publishing Group UK, London.
+* Mahajan, Vinay S.&#42;, Mattoo, Hamid&#42;, <strong>Sun, Na&#42;</strong>, Viswanadham, Vinayak&#42;, Yuen, Grace J., Allard-Chamard, Hugues, Ahmad, Maimuna, Murphy, Samuel JH., Cariappa, Annaiah, Tuncay, Yesim, et al. (2021). B1a and B2 cells are characterized by distinct CpG modification states at DNMT3A-maintained enhancers. <strong>Nature Communications</strong>, 12(1), 2208. Published by Nature Publishing Group UK, London.
 
 
 ## Other Publications
