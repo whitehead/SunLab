@@ -11,19 +11,19 @@ My laboratory aims to address these challenges by developing and applying advanc
 
 ## Our Research Focus
 
-### Deciphering Cell-Cell Communication and Its Biological Implications
+### 1. Deciphering Cell-Cell Communication and Its Biological Implications
 
 <!--![Research Image](assets/images/research1.jpg)-->
 
 We will develop computational methods to analyze functional cell-cell communication within tissues and its implications for cellular states, spatial organization, and genetic regulation. By decoding these interactions, we aim to uncover the key mechanisms that govern tissue function and organization.
 
-### Investigating the Brain-Immune-Organ Crosstalk
+### 2. Investigating the Brain-Immune-Organ Crosstalk
 
 <!--![Research Image](assets/images/research2.jpg)-->
 
 Our focus will be on the role of barriers, such as the blood-brain barrier, in mediating communication between the central nervous system and peripheral immune systems. We will also explore brain-organ crosstalk through the peripheral immune system. By studying these interactions, we aim to reveal the molecular and cellular mechanisms that maintain homeostasis and contribute to disease development.
 
-### Decoding Disease Complexity through Multimodal Deep Learning
+### 3. Decoding Disease Complexity through Multimodal Deep Learning
 
 <!--![Research Image](assets/images/research3.jpg)-->
 
