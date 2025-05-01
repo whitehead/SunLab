@@ -9,7 +9,7 @@ title: Publications
 
 <!--### 2025 -->
 
-* <strong>Sun, Na</strong>*, Victor, Matheus B.*, Park, Yongjin P., Xiong, Xushen, Scannail, Aine Ni, Leary, Noelle, Prosper, Shaniah, Viswanathan, Soujanya, Luna, Xochitl, Boix, Carles A., et al. (2023). Human microglial state dynamics in Alzheimer’s disease progression. <strong>Cell</strong>, 186(20), 4386-4403. Published by Elsevier.
+* <strong>Sun, Na&#42;</strong>, Victor, Matheus B.*, Park, Yongjin P., Xiong, Xushen, Scannail, Aine Ni, Leary, Noelle, Prosper, Shaniah, Viswanathan, Soujanya, Luna, Xochitl, Boix, Carles A., et al. (2023). Human microglial state dynamics in Alzheimer’s disease progression. <strong>Cell</strong>, 186(20), 4386-4403. Published by Elsevier.
 
 * <strong>Sun, Na</strong>, Akay, Leyla Anne, Murdock, Mitchell H., Park, Yongjin, Galiana-Melendez, Fabiola, Bubnys, Adele, Galani, Kyriaki, Mathys, Hansruedi, Jiang, Xueqiao, Ng, Ayesha P., et al. (2023). Single-nucleus multiregion transcriptomic analysis of brain vasculature in Alzheimer’s disease. <strong>Nature Neuroscience</strong>, 26(6), 970-982. Published by Nature Publishing Group US, New York.
 
