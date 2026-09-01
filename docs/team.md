@@ -25,14 +25,20 @@ Meet the talented researchers and staff members who make our work possible.
   </div>
     
   <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/photo_sophiaDavenport.jpg" alt="Ms. Sophia Davenport">
-    <h3>Sophia Davenport</h3>
-    <p class="position">Bioinformatics Technician</p>
-    <p>Sophia holds a BS in Genetics and Global Health from the University of Wisconsin–Madison, where she was involved in epidemiological research through the Wisconsin Sleep Cohort Study. She also completed a Pharmaceutical Microbiology internship at AbbVie, focusing on preservative effectiveness in ophthalmic solutions. Most recently, she earned an MS in Bioinformatics from Boston University. During her time there, she interned at Alamar Biosciences, developing a dashboard to visualize and assess performance metrics for multiplex proteomic assays. Outside the lab, she enjoys hiking, skiing, traveling, and exploring coffee shops around the city.</p>
-    <p><strong>Email:</strong> sdavenport@wi.mit.edu</p>
-    <p><strong>Codes:</strong> <a href="https://github.com/sophiadavenport">GitHub</a></p>
+    <img src="{{ site.baseurl }}/assets/images/photo_yuxiangZhan.jpg" alt="Dr. Yuxiang Zhan">
+    <h3>Yuxiang Zhan</h3>
+    <p class="position">Postdoctoral Researcher</p>
+    <p>Bio coming soon.</p>
   </div>
-  
+
+  <div class="team-member">
+    <img src="{{ site.baseurl }}/assets/images/photo_joanaLiuDonaher.jpg" alt="Ms. Joana Liu Donaher">
+    <h3>Joana Liu Donaher</h3>
+    <p class="position">Senior Technician</p>
+    <p>Joana is a Senior Technician working with Na to investigate how disrupted signaling between the brain and immune system drives neurodegenerative diseases, including Alzheimer's. She is super energized and excited to join the Sun Lab. When she is not in the lab, she coordinates a community apiary in her town and tends to 12 tomato plants and a variety of other garden vegetables during the growing season.</p>
+    <p><strong>Email:</strong> liudonaher@wi.mit.edu</p>
+  </div>
+
   <div class="team-member">
     <img src="{{ site.baseurl }}/assets/images/photo_albertHung.jpg" alt="Mr. Albert Hung">
     <h3>Albert Hung</h3>
@@ -42,11 +48,11 @@ Meet the talented researchers and staff members who make our work possible.
   </div>
  
   <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/photo_yanCui.jpg" alt="Mr. Yan Cui">
-    <h3>Yan Cui</h3>
-    <p class="position">Research Intern</p>
-    <p>Yan earned his Master’s degree in Informatics from Kyoto University and his Bachelor’s degree in Automation from the University of Electronic Science and Technology of China. His research focuses on developing novel deep learning models to advance the understanding of biological systems.</p>
-    <p><strong>Email:</strong> ycui@wi.mit.edu</p>
+    <img src="{{ site.baseurl }}/assets/images/photo_amyZheng.png" alt="Ms. Amy Zheng">
+    <h3>Amy Zheng</h3>
+    <p class="position">UROP Student</p>
+    <p>Amy is an undergraduate at MIT studying computer science and molecular biology. She works jointly between the Sun Lab and the Weissman Lab, combining MERFISH experiments with computational approaches to study spatial transcriptomics. She previously used expansion microscopy to investigate inhibitory synapses and interned with the Cell Therapy team at Genentech.</p>
+    <p><strong>Email:</strong> amyzheng@mit.edu</p>
   </div>
 </div>
 
