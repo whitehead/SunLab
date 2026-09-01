@@ -5,6 +5,15 @@ title: Contact
 
 # Contact Information
 
+## Join Us
+We are always looking for talented and motivated individuals to join our team.
+
+**Postdoctoral Position — Brain Organoids for Studying Brain Disorders (Experimental)**
+
+The Sun Lab is seeking a highly motivated **experimental postdoctoral researcher** to develop and apply human brain organoid models to investigate the mechanisms underlying brain disorders. The successful candidate will design and carry out organoid-based experiments and work closely with the lab's computational team to integrate these models with single-cell and spatial approaches, connecting cell-cell communication to disease. We welcome candidates with a Ph.D. and a strong background in stem cell biology, organoids, neuroscience, or molecular/cellular biology.
+
+For inquiries about this or other positions, please send your CV and a brief statement of research interests to Dr. Na Sun at nasun@wi.mit.edu.
+
 ## Laboratory Location
 
 **Main Laboratory**  
@@ -16,7 +25,7 @@ Cambridge, MA 02142
 ## Contact Details
 **Dr. Na Sun, Principal Investigator**  
 Email: nasun@wi.mit.edu    
-Office: Room 561D
+Office: Room 301A
 
 **Lab Manager**  
 Sumiko Williams  
@@ -30,11 +39,6 @@ Whitehead Institute for Biomedical Research
 455 Main Street  
 Cambridge, MA 02142  
 USA
-
-## Join Us
-We are always looking for talented and motivated individuals to join our team.
-
-For inquiries about positions, please send your CV and a brief statement of research interests to Dr. Na Sun at nasun@wi.mit.edu.
 
 ## Directions
 <div class="map-container">
