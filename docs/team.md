@@ -32,6 +32,13 @@ Meet the talented researchers and staff members who make our work possible.
   </div>
 
   <div class="team-member">
+    <img src="{{ site.baseurl }}/assets/images/photo_maureenCowan.jpg" alt="Dr. Maureen Cowan">
+    <h3>Maureen Cowan</h3>
+    <p class="position">Postdoctoral Researcher (co-mentored, Sun &amp; Sullivan Labs)</p>
+    <p>Maureen holds a PhD in Neuroscience from the University of Virginia. After training in experimental biology, she transitioned to bioinformatics, developing a specialization in spatial transcriptomics technologies as a Data Scientist at the UVA Center for Brain Immunology and Glia and later as a Bioinformatics Scientist at the Allen Institute in Seattle. She joined the Sun and Sullivan labs at the Whitehead Institute as a postdoctoral researcher, where her work applies AI tools to bridge experimental and computational biology for mechanistic discovery at the intersection of neuroscience and immunology.</p>
+  </div>
+
+  <div class="team-member">
     <img src="{{ site.baseurl }}/assets/images/photo_joanaLiuDonaher.jpg" alt="Ms. Joana Liu Donaher">
     <h3>Joana Liu Donaher</h3>
     <p class="position">Senior Technician</p>
