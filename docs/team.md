@@ -47,6 +47,13 @@ Meet the talented researchers and staff members who make our work possible.
   </div>
 
   <div class="team-member">
+    <img src="{{ site.baseurl }}/assets/images/photo_mariahCulpepper.jpg" alt="Ms. Mariah Culpepper">
+    <h3>Mariah Culpepper</h3>
+    <p class="position">Bioinformatics Technician</p>
+    <p>Mariah is a Bioinformatics Technician, intrigued by how communication between biological systems manifests in disease. She recently graduated with a B.S. in Computational Biology from Duke University. Outside of the lab, she loves to sing, play an array of logic games, and explore natural history.</p>
+  </div>
+
+  <div class="team-member">
     <img src="{{ site.baseurl }}/assets/images/photo_albertHung.jpg" alt="Mr. Albert Hung">
     <h3>Albert Hung</h3>
     <p class="position">Graduate Student</p>
