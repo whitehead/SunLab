@@ -60,6 +60,13 @@ Meet the talented researchers and staff members who make our work possible.
     <p>Albert is a PhD Student in EECS at MIT. His research interests lie at the intersection of biology and machine learning. Specifically, he aims to develop novel machine-learning algorithms that utilize multimodal biological data to streamline discovery and improve medical treatments. Prior to MIT, Albert received his B.S.E in Computer Science at the University of Michigan.</p>
     <p><strong>Email:</strong> azhung@wi.mit.edu</p>
   </div>
+
+  <div class="team-member">
+    <img src="{{ site.baseurl }}/assets/images/photo_annaLian.jpg" alt="Ms. Anna Lian">
+    <h3>Anna Lian</h3>
+    <p class="position">Master of Engineering Student</p>
+    <p>Anna is a Master of Engineering student joining the Sun Lab after graduating from MIT in May with an S.B. in Computer Science and Molecular Biology. She is excited to develop and utilize computational approaches to study the mechanisms of cancer formation and tumor-immune interactions. Outside of the lab she loves drawing, reading, and exploring Cambridge with friends and family.</p>
+  </div>
  
   <div class="team-member">
     <img src="{{ site.baseurl }}/assets/images/photo_amyZheng.png" alt="Ms. Amy Zheng">
