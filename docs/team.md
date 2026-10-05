@@ -36,6 +36,7 @@ Meet the talented researchers and staff members who make our work possible.
     <h3>Maureen Cowan</h3>
     <p class="position">Postdoctoral Researcher (co-mentored, Sun &amp; Sullivan Labs)</p>
     <p>Maureen holds a PhD in Neuroscience from the University of Virginia. After training in experimental biology, she transitioned to bioinformatics, developing a specialization in spatial transcriptomics technologies as a Data Scientist at the UVA Center for Brain Immunology and Glia and later as a Bioinformatics Scientist at the Allen Institute in Seattle. She joined the Sun and Sullivan labs at the Whitehead Institute as a postdoctoral researcher, where her work applies AI tools to bridge experimental and computational biology for mechanistic discovery at the intersection of neuroscience and immunology.</p>
+    <p><strong>Email:</strong> maureen@wi.mit.edu</p>
   </div>
 
   <div class="team-member">
@@ -51,6 +52,7 @@ Meet the talented researchers and staff members who make our work possible.
     <h3>Mariah Culpepper</h3>
     <p class="position">Bioinformatics Technician</p>
     <p>Mariah is a Bioinformatics Technician, intrigued by how communication between biological systems manifests in disease. She recently graduated with a B.S. in Computational Biology from Duke University. Outside of the lab, she loves to sing, play an array of logic games, and explore natural history.</p>
+    <p><strong>Email:</strong> mculpepper@wi.mit.edu</p>
   </div>
 
   <div class="team-member">
@@ -66,6 +68,7 @@ Meet the talented researchers and staff members who make our work possible.
     <h3>Anna Lian</h3>
     <p class="position">Master of Engineering Student</p>
     <p>Anna is a Master of Engineering student joining the Sun Lab after graduating from MIT in May with an S.B. in Computer Science and Molecular Biology. She is excited to develop and utilize computational approaches to study the mechanisms of cancer formation and tumor-immune interactions. Outside of the lab she loves drawing, reading, and exploring Cambridge with friends and family.</p>
+    <p><strong>Email:</strong> alian@wi.mit.edu</p>
   </div>
  
   <div class="team-member">
