@@ -56,6 +56,14 @@ Meet the talented researchers and staff members who make our work possible.
   </div>
 
   <div class="team-member">
+    <img src="{{ site.baseurl }}/assets/images/photo_maryTylerMosley.jpg" alt="Ms. Mary-Tyler Mosley">
+    <h3>Mary-Tyler Mosley</h3>
+    <p class="position">Experimental Technician</p>
+    <p>Mary-Tyler earned her B.S. in Human Biology from Stanford University, where she composed an honors thesis on transcriptomic analysis of maladaptive myelination in epilepsy as a member of the Knowles Lab. She is excited now to join the Sun Lab in investigating cellular brain-immune crosstalk in health and disease. Outside of lab, Mary-Tyler enjoys overanalyzing movies, singing her favorite songs, and exploring new places.</p>
+    <p><strong>Email:</strong> mtmosley@wi.mit.edu</p>
+  </div>
+
+  <div class="team-member">
     <img src="{{ site.baseurl }}/assets/images/photo_albertHung.jpg" alt="Mr. Albert Hung">
     <h3>Albert Hung</h3>
     <p class="position">Graduate Student</p>
